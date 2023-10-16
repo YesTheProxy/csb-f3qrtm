@@ -1,0 +1,14 @@
+/vm_data
+.vagrant*
+Berksfile.lock
+Gemfile.lock
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+*.sublime-workspace
+
+/old
+/tmp
